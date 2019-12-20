@@ -1,1 +1,1 @@
-lesson-1:css目标选择器
+lesson-2:nth-child伪类选择器
